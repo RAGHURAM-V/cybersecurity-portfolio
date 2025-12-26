@@ -1,74 +1,42 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🔐 Raghuram V – Cybersecurity Portfolio
 
-Welcome to my personal portfolio website, hosted via GitHub Pages!
-
-This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **VAPT**, **Cryptography**, and **Cloud Security**.
-
-> 🔒 Ethical Hacker | Red Team Specialist | TryHackMe Global Top 2% | Published Author
+A modern, responsive personal portfolio website showcasing my professional experience, skills, certifications, projects, and articles in **Cybersecurity, Penentration testing , SOC Operations, Incident Response, and Security Engineering**.
 
 ---
 
-## 🚀 Live Website
+## 👨‍💻 About Me
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+I am a **Security Analyst (SOC / Incident Response)** with **3.5+ years of IT experience**, including **2.6+ years in real-time SOC operations**.  
+I specialize in:
 
----
+- Read team and Penentration testing 
+- Security monitoring & alert triage  
+- Threat investigation & incident response  
+- SIEM / EDR detection engineering  
+- MITRE ATT&CK–aligned investigations  
+- Automation & workflow optimization  
 
-## 🛠️ Built With
-
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-- **Font Awesome**
-- **Google Fonts**
-- **Responsive Design** with custom dark/light theme toggle
-- 💻 Cyberpunk-inspired UI for a hacker aesthetic
+This portfolio is designed to reflect both **technical depth** and **practical, real-world security experience**.
 
 ---
 
-## 📂 Structure
+## 🌐 Live Preview
 
-```
-📁 root
-    ├── index.html # Main page
-    ├── style.css # Styling and themes
-    ├── script.js # Interactivity and animations
-    ├── assets/ # Images
-    └── README.md # You are here
-```
+> 📌 Host this using **GitHub Pages**, **Netlify**, or **Vercel**
 
----
+Example:
+https://github.com/RAGHURAM-V/cybersecurity-portfolio
 
-## 🧠 Sections Included
 
-- 👨‍💻 About Me
-- ⚙️ Skills (Security, Programming, Tools)
-- 📁 Projects (with GitHub links)
-- 🏢 Experience
-- 🎓 Education
-- 📜 Certifications
-- 🏆 Achievements
-- 📚 Trainings & Courses
-- 📝 Blog Articles
-- 📞 Contact Form
 
----
+📧 Email: raghuram.raghu97@gmail.com
 
-## 🖥️ Hosting via GitHub Pages
+💼 LinkedIn: https://www.linkedin.com/in/raghuram-v-20229918a
 
-This site is deployed using [GitHub Pages](https://pages.github.com/), a free and reliable method for web hosting directly from your GitHub repository.
+💻 GitHub: https://github.com/RAGHURAM-V
 
----
+✍️ Medium: https://medium.com/@raghuram.raghu97
 
-## 📧 Connect With Me
+🧪 TryHackMe: https://tryhackme.com/p/Raghuram
 
-- 🔗 [Linktree](https://linktr.ee/AdityaBhatt3010)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-bhatt-b61868250/)
-- 🐙 [GitHub](https://github.com/adityabhatt3010)
-- 📝 [Medium](https://medium.com/@info.adityabhatt3010)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/info.adityabhatt)
-- 🎖️ [Credly](https://www.credly.com/users/aditya-bhatt3010)
-
----
-
-> Designed & Developed with 💙 by **Aditya Bhatt**
+🧱 Hack The Box: https://app.hackthebox.com/users/195971
